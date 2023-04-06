@@ -1,0 +1,21 @@
+│├XUICARLOS GARCIA SEGURA1973       │I.M. Obi-Wan                       
+│                                   │                                   
+││DATE:2022-10-07 13:02:50:686      │                                   
+││CONT:Q0FSTE9TIEdBUkNJQSBTRUdVUkE= │                                   
+│├─────────────────────────────────>│                                   
+│                                   │                                   
+│                                   ││DATE:2022-10-07 13:02:50:795      
+│                                   ││CONT:Confirm check-in from agent X
+│<───────────────────────────────────┤                                  
+│                                   │                                   
+││DATE:2022-10-07 13:03:03:061      │                                   
+││CONT:Request checkout             │                                   
+│├─────────────────────────────────>│                                   
+│                                   │                                   
+│                                   ││DATE:2022-10-07 13:03:03:155      
+│                                   ││CONT:Confirm check-out of agent XU
+│<───────────────────────────────────┤                                  
+│                                   │                                   
+ │DATE:2022-10-07 13:03:03:155      │                                   
+                                    │                                   
+
